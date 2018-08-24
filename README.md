@@ -1,7 +1,7 @@
-Builder Pattern in Java
+Builder Design Pattern in Java
 =====
 
-# What is Builder Pattern
+# What is Builder Design Pattern
 
 It is a creational pattern.
 
